@@ -43,8 +43,16 @@ We said earlier that anxiety is caused by our negative thoughts. We have a negat
 
 **Distraction is a good technique for short term anxiety relief but doesn't do anything for long term anxiety relief.** This is because distraction will get your mind off your nervous thought but once you are finished with your activity that distracted you from your nervous thought, what is to stop you from returning back to that nervous thought again?
 
+#### Challenging negative thoughts
+Now it's time for a technique that works well for the long term. It involves challenging your negative thoughts as much as possible. Suppose you have a negative thought that is making you anxious. You can do the following:
+1. Write down your negative thought
+1. Try to think about which distortions might be present in your thinking
+1. Write down positive thoughts in response to your negative thoughts (reasons to not be as concerned as initially thought)
 
-challenging negative thoughts (most important section)
+After this is done, you will want to start out by reviewing this writing multiple times per day. You can decrease how frequently you look at it after you have it better understood. The idea is that whenever this negative thought comes to mind, you immediately start to think about the corresponding positive thoughts. This will cause the negative thought to give you less anxiety than it originally did. In many cases, it will cause the negative thought to not even give you anxiety at all anymore. 
+
+You want to write as many positive thoughts as possible. Any time that you think of another positive thought throughout the day, add it in there. The reason for having these positive thoughts written down is so that you don't have to worry about forgetting them when you are anxious. Imagine being anxious and trying to recall all 8 of the positive thoughts but you can only remember 2 of them. If they are all written down, then you are guaranteed to get all 8 of them every time you are anxious which will help with reducing anxiety.
+
 -write out negative thoughts then positive thoughts
 process vs outcome
 reattribution
