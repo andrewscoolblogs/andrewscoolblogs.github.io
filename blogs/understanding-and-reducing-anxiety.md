@@ -66,9 +66,11 @@ Positive thoughts:
 * Doctor told me there is no reason to be concerned about my heart at this time
 * Above thoughts suggest there is nothing wrong with my heart and this is just anxiety related
 
+#### Process vs outcome
+Another technique for reducing anxiety is to think of things more in terms of the process than the outcome. Instead of thinking about the outcome such as "what if I get fired!" You can think of things in terms of the process such as "all I can do is give my best effort and whatever the result is, I can live with it." It's easy to get down on yourself and say things like "if I get fired, then that means that there's something wrong with me." That's not necessarily what that means. Management may not have known what they were doing. Your company could have been struggling financially. Maybe a robot took your job.
 
--write out negative thoughts then positive thoughts
-process vs outcome
+The point is, often times, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. So it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could. If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They should be understanding. If they are not, then do not feel bad because you did what you could and people really need to be understanding any time you give your best effort.
+
 reattribution
 double standard technique
 downward arrow technique
