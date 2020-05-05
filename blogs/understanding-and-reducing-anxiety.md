@@ -1,5 +1,7 @@
 ## Understanding and Reducing Anxiety
 
+#### Disclaimer
+
 ### What does anxiety feel like?
 
 #### Identifying anxiety
@@ -15,5 +17,3 @@
 #### Relapse
 
 #### Therapist
-
-#### Disclaimer
