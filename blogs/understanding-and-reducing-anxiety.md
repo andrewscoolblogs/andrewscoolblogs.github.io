@@ -71,9 +71,19 @@ Another technique for reducing anxiety is to think of things more in terms of th
 
 The point is, often times, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. So it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could. If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They should be understanding. If they are not, then do not feel bad because you did what you could and people really need to be understanding any time you give your best effort.
 
-reattribution
-double standard technique
-downward arrow technique
+#### Reattribution
+When something goes wrong, you may blame or label yourself which is something you want to avoid doing. You want to use reattribution when something goes wrong. With reattribution, you ask yourself: what caused this problem and how can I learn from it? 
+
+You have a right to make mistakes and you have a right to learn from those mistakes.
+
+#### Double standard technique
+Often times when people are anxious, they tend to think about negative thoughts and discount the positives. When they go to a friend for help and a friend is giving them advice, the friend will typically only think about positive thoughts and will only feed positive thoughts.
+
+So with the double standard technique, you imagine your friend being in the situation you are in and you imagine yourself giving advice to your friend. You would be imagining yourself feeding your friend positive thoughts.
+
+#### Downward arrow technique
+
+
 image substitution
 memory rescripting
 acceptance
