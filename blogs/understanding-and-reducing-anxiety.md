@@ -41,19 +41,20 @@ Most of the distortions are self explanatory but some need more explanation and 
 distraction
 challenging negative thoughts (most important section)
 -write out negative thoughts then positive thoughts
+process vs outcome
+reattribution
+double standard technique
 downward arrow technique
 image substitution
-double standard technique
-reattribution
-process vs outcome
-exposure
 memory rescripting
 acceptance
 meditation
 
 ### Miscellaneous
 
-#### Are these physical symptoms anxiety related or is something actually wrong with me physically?
+#### Which technique is the best?
+
+#### Are these physical symptoms just anxiety related or is something actually wrong with me?
 
 #### Relapse
 
