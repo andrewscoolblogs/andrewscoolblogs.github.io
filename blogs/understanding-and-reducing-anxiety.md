@@ -38,7 +38,12 @@ Most of the distortions are self explanatory but some need more explanation and 
 
 ### Strategies for reducing anxiety
 
-distraction
+#### Distraction
+We said earlier that anxiety is caused by our negative thoughts. We have a negative thought and thinking about that negative thought makes us nervous. **If we simply just don't think about that negative thought, our anxiety will lessen.** But it's not just as simple as "hey quit thinking about that." It is often easier if you can distract yourself by doing some sort of activity which may include playing a video game, going for a walk, playing a sport, watching TV, etc.
+
+**Distraction is a good technique for short term anxiety relief but doesn't do anything for long term anxiety relief.** This is because distraction will get your mind off your nervous thought but once you are finished with your activity that distracted you from your nervous thought, what is to stop you from returning back to that nervous thought again?
+
+
 challenging negative thoughts (most important section)
 -write out negative thoughts then positive thoughts
 process vs outcome
