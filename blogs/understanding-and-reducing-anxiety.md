@@ -11,14 +11,19 @@ The duration of anxiety also plays a role. **If you can go a long time with low 
 
 There are many different physical symptoms that you may get from having high levels anxiety. You might start out with a few symptoms on one day and then on another day have totally different physical symptoms. Or, you may even have one set of symptoms for a month, feel all better, and then a year or two later experience totally different physical symptoms when you get anxious again. So the physical symptoms you get won't necessarily be the same each time. And the symptoms you get might be a little different than what your friends get.
 
-Some potential physical symptoms include: headache, tightness in chest, shortness of breath, chest pain, nausea, abdominal pain, lightheadedness, diziness, diarrhea, sweating.
+**Some potential physical symptoms include: headache, tightness in chest, shortness of breath, chest pain, nausea, abdominal pain, lightheadedness, diziness, diarrhea, sweating.**
 
 #### Causes of anxiety
 **Anxiety is caused by negative thoughts. You are telling yourself that something bad is going to happen.**
 
-Let's say you are on an airplane and you have a fear of flying. Now all of a sudden, there is some turbulence and you say "We are going to crash!" **Your anxiety did not result from the turbulence.** There were some other passengers in the plane that did not have anxiety about the turbulence (and some other passengers probably did!). **Your anxiety resulted from your negative thought about the turbulence.**
+Let's say you are on an airplane and you have a fear of flying. Now all of a sudden, there is some turbulence and you say "We are going to crash!" **Your anxiety did not result from the turbulence. Your anxiety resulted from your negative thought about the turbulence.** Some others on the airplane did not immediately start to think about crashing and as a result did not feel nervous. 
+
+**If you can change the way you think, then you can change the way you feel.**
 
 #### Cognitive Distortions
+**When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in.** Knowing this should help calm you down some when you feel anxious because this information should help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
+
+
 
 ### Strategies for reducing anxiety
 
