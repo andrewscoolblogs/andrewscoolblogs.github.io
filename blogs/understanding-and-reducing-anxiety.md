@@ -23,7 +23,18 @@ Let's say you are on an airplane and you have a fear of flying. Now all of a sud
 #### Cognitive Distortions
 **When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in.** Knowing this should help calm you down some when you feel anxious because this information should help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
 
+List of distortions include:
+1. All-or-Nothing Thinking: viewing things in terms of maximums or minimums with nothing in between
+1. Overgeneralization: you view one negative occurrence as something that always happens
+1. Discounting the positives: you tend to focus more on the negatives than the positives
+1. Mind-Reading: you predict others are viewing you unfavorably when you don't know that for sure
+1. Fortune-telling: you tell yourself something bad will happen when you don't know that for sure
+1. Magnification or Minification: you blow things out of proportion
+1. Should statements: you use should statements like shoulds, oughts, musts
+1. Labeling: you label yourself as a loser
+1. Blame: you blame yourself for something you had no control over or you blame others without looking at how you could have contributed
 
+Most of the distortions are self explanatory but some need more explanation and will get their own section later on in this article. The important thing to know for now is that these distortions tend to be flaws in logic that commonly occur in thoughts when you are anxious.
 
 ### Strategies for reducing anxiety
 
