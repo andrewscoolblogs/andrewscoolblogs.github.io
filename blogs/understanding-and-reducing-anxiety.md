@@ -5,6 +5,13 @@
 ### Understanding anxiety
 
 #### What does anxiety feel like?
+Anxiety is a feeling of nervousness. The higher the levels of anxiety, the more likely there is to be physical symptoms associated with the anxiety. It's important to note that some people require more anxiety than others in order to experience physical symptoms. So if you take two anxious individuals, one who is experiencing physical symptoms and one who isn't, the person experiencing physical symptoms isn't necessarily the more nervous of the two.
+
+The duration of anxiety also plays a role. If you can go a long time with low anxiety, it will generally take a lot more anxiety for a longer period of time in order to experience physical symptoms. If you frequently have anxiety, then it may feel like it doesn't take much in order to experience physical symptoms.
+
+There are many different physical symptoms that you may get from having high levels anxiety. You might start out with a few symptoms on one day and then on another day have totally different physical symptoms. Or, you may even have one set of symptoms for a month, feel all better, and then a year or two later experience totally different physical symptoms when you get anxious again. So the physical symptoms you get won't necessarily be the same each time. And the symptoms you get might be a little different than what your friends get.
+
+Common physical symptoms include: 
 
 #### Causes of anxiety
 
