@@ -1,12 +1,12 @@
 ## Understanding and Reducing Anxiety
 
-### Understanding Anxiety
+### What does anxiety feel like?
 
-#### Identifying Anxiety
+#### Identifying anxiety
 
-#### Causes of Anxiety
+#### Causes of anxiety
 
-### Strategies for Reducing Anxiety
+### Strategies for reducing anxiety
 
 ### Miscellaneous
 
