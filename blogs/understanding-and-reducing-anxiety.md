@@ -1,14 +1,14 @@
 ## Understanding and Reducing Anxiety
 
-**Disclaimer** I am not a doctor or therapist. All I am doing here is relaying information I have learned from talking with doctors and therapists as well as reading books that were written by doctors and therapists.
+**Disclaimer:** I am not a doctor or therapist. All I am doing here is relaying information I have learned from talking with doctors and therapists as well as reading books that were written by doctors and therapists.
 
-### What does anxiety feel like?
+### Understanding anxiety
 
-#### Identifying anxiety
+#### What does anxiety feel like?
 
 #### Causes of anxiety
 
-#### Distortions
+#### Cognitive Distortions
 
 ### Strategies for reducing anxiety
 
