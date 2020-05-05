@@ -38,6 +38,19 @@ Most of the distortions are self explanatory but some need more explanation and 
 
 ### Strategies for reducing anxiety
 
+distraction
+challenging negative thoughts (most important section)
+-write out negative thoughts then positive thoughts
+downward arrow technique
+image substitution
+double standard technique
+reattribution
+process vs outcome
+exposure
+memory rescripting
+acceptance
+meditation
+
 ### Miscellaneous
 
 #### Are these physical symptoms anxiety related or is something actually wrong with me physically?
