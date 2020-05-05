@@ -15,8 +15,9 @@ Some physical symptoms include: headache, tightness in chest, shortness of breat
 
 #### Causes of anxiety
 Anxiety is caused by negative thoughts. You are telling yourself that something bad is going to happen.
+```
 Let's say you are on an airplane and you have a fear of flying. Now all of a sudden, there is some turbulence and you say "We are going to crash!" Your anxiety did not result from the turbulence. There were some other passengers in the plane that did not have anxiety about the turbulence (and some other passengers probably did!). Your anxiety resulted from your negative thought about the turbulence.
-
+```
 #### Cognitive Distortions
 
 ### Strategies for reducing anxiety
