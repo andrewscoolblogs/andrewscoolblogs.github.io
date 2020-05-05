@@ -53,6 +53,20 @@ After this is done, you will want to start out by reviewing this writing multipl
 
 You want to write as many positive thoughts as possible. Any time that you think of another positive thought throughout the day, add it in there. The reason for having these positive thoughts written down is so that you don't have to worry about forgetting them when you are anxious. Imagine being anxious and trying to recall all 8 of the positive thoughts but you can only remember 2 of them. If they are all written down, then you are guaranteed to get all 8 of them every time you are anxious which will help with reducing anxiety.
 
+Let's look at an example of challenging negative thoughts:
+
+Negative thought: I have pain in my chest, is there something wrong with my heart?
+Positive thoughts:
+* I visited the doctor and they did many tests and found nothing wrong with my heart
+* I was just able to run on a treadmill and set a personal record for the 1 mile run
+* Pain decreased immensely during meditation
+* If there was something wrong with my heart, I wouldn't have been able to set a personal record for the 1 mile run on a treadmill
+* I am young and the doctor said the probability of young people having heart issues is very low
+* My family has no history of heart issues
+* Doctor told me there is no reason to be concerned about my heart at this time
+* Above thoughts suggest there is nothing wrong with my heart and this is just anxiety related
+
+
 -write out negative thoughts then positive thoughts
 process vs outcome
 reattribution
