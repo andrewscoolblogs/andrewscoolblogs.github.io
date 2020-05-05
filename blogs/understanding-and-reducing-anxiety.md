@@ -15,3 +15,5 @@
 #### Relapse
 
 #### Therapist
+
+#### Disclaimer
