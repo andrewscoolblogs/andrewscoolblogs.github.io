@@ -103,10 +103,12 @@ Depending on what has happened in your past, there may be previous memories that
 Sometimes you end up with a health issue later in life that is terminal. All you can do is just accept the situation and say "whatever happens, it's okay."
 
 #### Meditation
+I don't want to get into much detail on meditation in this blog post because meditation could easily quadrouple the length of this blog post. There are many different types of meditations and different types of meditations work better for different people. You just have to experiment and see what works for you. Meditation is just another tool for reducing anxiety. It takes a ton of practice before you start to see much benefit. There are many resources online if you want to learn more about meditation. I just want you to be aware that this option exists.
 
 ### Miscellaneous
 
 #### Which technique is the best?
+
 
 #### Are these physical symptoms just anxiety related or is something actually wrong with me?
 
