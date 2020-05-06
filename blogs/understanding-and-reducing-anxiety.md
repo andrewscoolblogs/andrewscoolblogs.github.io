@@ -69,7 +69,7 @@ Positive thoughts:
 #### Process vs outcome
 Another technique for reducing anxiety is to think of things more in terms of the process than the outcome. Instead of thinking about the outcome such as "what if I get fired!" You can think of things in terms of the process such as "all I can do is give my best effort and whatever the result is, I can live with it." It's easy to get down on yourself and say things like "if I get fired, then that means that there's something wrong with me." That's not necessarily what that means. Management may not have known what they were doing. Your company could have been struggling financially. Maybe a robot took your job.
 
-The point is, often times, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. So it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could. If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They should be understanding. If they are not, then do not feel bad because you did what you could and people really need to be understanding any time you give your best effort.
+The point is, often times, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. **So it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could.** If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They should be understanding. If they are not, then do not feel bad because you did what you could and people really need to be understanding any time you give your best effort.
 
 #### Reattribution
 When something goes wrong, you may blame or label yourself which is something you want to avoid doing. You want to use reattribution when something goes wrong. With reattribution, you ask yourself: what caused this problem and how can I learn from it? 
@@ -108,12 +108,15 @@ I don't want to get into much detail on meditation in this blog post because med
 ### Miscellaneous
 
 #### Which technique is the best?
+Dr. David Burns has indicated that there is no one size fits all technique that has worked for all of his clients. A technique that works on one client may not work on another aclient. In some cases, he will have to do more than 15 different techniques before finally finding a technique that works on a client. 
 
+That being said, a few of these concepts appear to be generally more powerful. Challenging negative thoughts seems to generally be very powerful. Meditation does as well though meditation takes a lot longer than any other technique before any benefit is noticed.
 
 #### Are these physical symptoms just anxiety related or is something actually wrong with me?
 
+
 #### Relapse
 
-#### Therapist
+#### Doctor vs Therapist
 
 ### Sources
