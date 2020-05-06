@@ -97,10 +97,12 @@ Suppose you are about to give a speech soon and you have public speaking anxiety
 If you are nervous about flying on an airplane, visualize yourself flying on an airplane that lands safely. If you are nervous about your boss' opinion of your work, visualize your boss saying that your work looks great.
 
 #### Memory rescripting
+Depending on what has happened in your past, there may be previous memories that you have that make you feel uneasy. With memory rescripting, you simply just pretend that something different happened in the past when you try to visualize it. In other words, you use image substitution on the past instead of the future. Maybe a previous flight of yours had turbulence, which made you uneasey. Try to recall that flight but visualize it without having turbulence instead.
 
+#### Acceptance
+Sometimes you end up with a health issue later in life that is terminal. All you can do is just accept the situation and say "whatever happens, it's okay."
 
-acceptance
-meditation
+#### Meditation
 
 ### Miscellaneous
 
