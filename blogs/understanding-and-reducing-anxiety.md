@@ -81,11 +81,24 @@ Often times when people are anxious, they tend to think about negative thoughts 
 
 So with the double standard technique, you imagine your friend being in the situation you are in and you imagine yourself giving advice to your friend. You would be imagining yourself feeding your friend positive thoughts.
 
-#### Downward arrow technique
+#### What if technique
+Take a negative thought. Now ask yourself, "if this negative thought was true, what is the worst that could happen?" After that, you ask yourself, "and if that happened, what is the worst that could happen from there?" You repeat this process until you can't go any farther.
+
+Suppose you are walking around a grocery store but are having difficulty finding the item you are looking for. You are thinking of asking one of the grocery store employees for help but you are nervous about it because you are shy. The what if technique might look like this:
+* I'm nervous about asking this employee about where an item is because he might pick up that I am shy and think that something is wrong with me.
+* If the grocery store employee thinks that something is wrong with me, what is the worst that could happen? The employee might give me a weird look when I walk into the store next time.
+* If the employee gives me a weird look when I walk into the store next time, what is the worst that could happen? I might take a less than optimal path within the grocery store to get my grocery.
+
+With the what if technique you will sometimes see that the worst case scenario isn't as bad as you thought. Or even more common, you will see see that the worst case scenario is quite a bit less likely to occur. If you really dig through it with a friend or therapist, a lot of really unlikely assumptions have to hold true for the worst case scenario to hold up.
+
+#### Image substitution
+Suppose you are about to give a speech soon and you have public speaking anxiety. If you visualize yourself giving a bad speech, your anxiety levels will go up. This will make it more likely that you stutter throughout your speech. However, if you visualize yourself giving a good speech, this will decrease your anxiety and make it more likely for you to give a good speech. This is called image substitution. So any time you are nervous about something going wrong, try to visualize it going right. This reduces anxiety.
+
+If you are nervous about flying on an airplane, visualize yourself flying on an airplane that lands safely. If you are nervous about your boss' opinion of your work, visualize your boss saying that your work looks great.
+
+#### Memory rescripting
 
 
-image substitution
-memory rescripting
 acceptance
 meditation
 
