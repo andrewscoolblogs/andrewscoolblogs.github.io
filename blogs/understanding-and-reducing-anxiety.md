@@ -91,6 +91,15 @@ Suppose you are walking around a grocery store but are having difficulty finding
 
 With the what if technique you will sometimes see that the worst case scenario isn't as bad as you thought. Or even more common, you will see see that the worst case scenario is quite a bit less likely to occur. If you really dig through it with a friend or therapist, a lot of really unlikely assumptions have to hold true for the worst case scenario to hold up.
 
+#### Think of things as 0-100 instead of 0 or 100
+Thinking of things as 0 or 100 often puts on extra pressure. Here are some examples of 0 or 100 thinking:
+1. I am going to either make a good impression or a bad impression depending on how well things go!
+1. I am concerned my anxiety might come back because in the past week, there has been many scenarios in which my anxiety returned!
+
+Thinking of things in terms of 0-100 will reduce the pressure. Here is an example of converting the above statements to 0-100 thinking:
+1. Depending on how things go, the impression I make could be anywhere between 0 and 100. One mistake may lower the person's impression of me but it won't necessarily mean that the person's view of me is that I am the worst person there is.
+1. I have anxiety everyday just like everyone else. If we are getting really technical, it may be 1/100, 5/100, 10/100, or 0.00001/100 but it's something. So there's no such thing as "anxiety coming back." There is such a thing as anxiety increasing and decreasing. Everyone's anxiety increases and decreases at some point in time every day. It may be a small, unnoticeable increase/decrease but it's something.
+
 #### Image substitution
 Suppose you are about to give a speech soon and you have public speaking anxiety. If you visualize yourself giving a bad speech, your anxiety levels will go up. This will make it more likely that you stutter throughout your speech. However, if you visualize yourself giving a good speech, this will decrease your anxiety and make it more likely for you to give a good speech. This is called image substitution. So any time you are nervous about something going wrong, try to visualize it going right. This reduces anxiety.
 
