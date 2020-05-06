@@ -120,5 +120,8 @@ So it is always good to check with a medical professional to just confirm that t
 #### Relapse
 
 #### Doctor vs Therapist
+When it comes to anxiety, doctors seem to be the best at helping with the physical symptoms associated with anxiety. They can check to see if there is actually anything wrong with you physically or if it is just anxiety. They can also prescribe medications that can help with the physical symptoms you are experiencing from anxiety. They can also prescribe SSRIs for reducing anxiety. The downside of the SSRIs is they generally come with a few side effects.
+
+While the doctor has the medical background, the therapist has the mental background. They understand the mental side of things very well. So if you feel nervous all the time and want to feel less nervous, the therapist can help you do that. The therapist can help give you short term and long term strategies for reducing anxiety. They may be similar to the strategies you read in this blog post.
 
 ### Sources
