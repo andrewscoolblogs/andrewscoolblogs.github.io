@@ -113,7 +113,9 @@ Dr. David Burns has indicated that there is no one size fits all technique that 
 That being said, a few of these concepts appear to be generally more powerful. Challenging negative thoughts seems to generally be very powerful. Meditation does as well though meditation takes a lot longer than any other technique before any benefit is noticed.
 
 #### Are these physical symptoms just anxiety related or is something actually wrong with me?
+We listed out some potential physical symptoms that anxiety may cause above. However, just because you have those symptoms, doesn't mean that those symptoms came from anxiety. A symptom may have multiple causes. If you had high levels of anxiety around the time of these physical symptoms arising, that increases the chance that these symptoms being caused by anxiety but doesn't **guarantee** that these symptoms were caused by anxiety. You could just have had something bad happen to you plus anxiety at around the same time.
 
+So it is always good to check with a medical professional to just confirm that these symptoms are anxiety related and there isn't actually anything wrong with you. If a doctor does tests on you and says that there is nothing wrong with you physically, then you need to just accept their word on it and trust that it must be anxiety related.
 
 #### Relapse
 
