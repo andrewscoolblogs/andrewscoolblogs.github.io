@@ -108,6 +108,13 @@ I don't want to get into much detail on meditation in this blog post because med
 ### Miscellaneous
 
 anxiety about anxiety, all or nothing thinking, should statements
+try to get in a routine
+don't procrastinate
+drink plenty water
+eat plenty food if possible
+get plenty sleep
+426 breathing
+478 breathing
 
 #### Which technique is the best?
 Dr. David Burns has indicated that there is no one size fits all technique that has worked for all of his clients. A technique that works on one client may not work on another aclient. In some cases, he will have to do more than 15 different techniques before finally finding a technique that works on a client. 
