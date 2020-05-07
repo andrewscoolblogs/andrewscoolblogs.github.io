@@ -9,19 +9,19 @@
 
 The duration of anxiety also plays a role. **If you can go a long time with low anxiety, it will generally take a lot more anxiety for a longer period of time in order to experience physical symptoms.** If you frequently have anxiety, then it may feel like it doesn't take much in order to experience physical symptoms.
 
-There are many different physical symptoms that you may get from having high levels anxiety. You might start out with a few symptoms on one day and then on another day have totally different physical symptoms. Or, you may even have one set of symptoms for a month, feel all better, and then a year or two later experience totally different physical symptoms when you get anxious again. So, the physical symptoms you get will not necessarily be the same each time. And the symptoms you get might be a little different than what your friends get.
+There are many different physical symptoms that you may get from having high levels anxiety. You might start out with a few symptoms on one day and then on another day have totally different physical symptoms. Or, you may even have one set of symptoms for a month, feel all better, and then a year or two later experience totally different physical symptoms when you get anxious again. So, the physical symptoms you get will not necessarily be the same each time. The symptoms you get might also be a little different than what your friends get.
 
 **Some potential physical symptoms include headache, tightness in chest, shortness of breath, chest pain, nausea, abdominal pain, lightheadedness, dizziness, diarrhea, sweating.**
 
 #### Causes of anxiety
-**Anxiety is caused by negative thoughts. You are telling yourself that something bad is going to happen.**
+**Anxiety is caused by negative thoughts. With negative thoughts, you are typically telling yourself that something bad is going to happen.**
 
 Let's say you are on an airplane and you have a fear of flying. Now suddenly, there is some turbulence and you say, "We are going to crash!" **Your anxiety did not result from the turbulence. Your anxiety resulted from your negative thought about the turbulence.** Some others on the airplane did not immediately start to think about crashing and as a result did not feel nervous. 
 
 **If you can change the way you think, then you can change the way you feel.**
 
 #### Cognitive Distortions
-**When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in.** Knowing this should help calm you down some when you feel anxious because this information should help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
+**When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in.** Knowing this may help calm you down some when you feel anxious because this information can help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
 
 List of distortions include:
 1. All-or-Nothing Thinking: viewing things in terms of maximums or minimums with nothing in between
@@ -69,7 +69,7 @@ Positive thoughts:
 #### Process vs outcome
 Another technique for reducing anxiety is to think of things more in terms of the process than the outcome. Instead of thinking about the outcome such as "what if I get fired!" You can think of things in terms of the process such as "all I can do is give my best effort and whatever the result is, I can live with it." It's easy to get down on yourself and say things like "if I get fired, then that means that there's something wrong with me." That's not necessarily what that means. Management may not have known what they were doing. Your company could have been struggling financially. Maybe a robot took your job.
 
-The point is, often, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. **So, it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could.** If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They should be understanding. If they are not, then do not feel bad because you did what you could, and people really need to be understanding any time you give your best effort.
+The point is, often, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. **So, it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could.** If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They would hopefully be understanding. If they are not, then do not feel bad because you did what you could, and people really need to be understanding any time you give your best effort.
 
 #### Reattribution
 When something goes wrong, you may blame or label yourself which is something you want to avoid doing. You want to use reattribution when something goes wrong. With reattribution, you ask yourself: what caused this problem and how can I learn from it? 
@@ -142,7 +142,7 @@ When it comes to anxiety, doctors seem to be the best at helping with the physic
 
 While the doctor has the medical background, the therapist has the mental background. They understand the mental side of things very well. So, if you want to reduce anxiety naturally, the therapist can help you do that. The therapist can help give you short term and long-term strategies for reducing anxiety. They may be similar to the strategies you read in this blog post.
 
-You should always aim to reduce anxiety through therapy. This may include seeing a therapist or may just be as simple as reading about cognitive behavioral therapy (which is where most information from this blog post came from). The reason why you should always aim to reduce anxiety this way is because it is side-effect free. If you want to use an SSRI in addition to this, then that is up to you and your doctor. But I see no reason to use an SSRI without using therapy. Either use therapy only or use therapy + SSRI. Don't use SSRI only. At least with therapy + SSRI you can be on a lower dosage of the SSRI than what you would have been on with SSRI only.
+It is always good to aim to reduce anxiety through therapy. This may include seeing a therapist or may just be as simple as reading about cognitive behavioral therapy (which is where most information from this blog post came from). The reason why it is always good to aim to reduce anxiety this way is because it is side-effect free. If you want to use an SSRI in addition to this, then that is up to you and your doctor. But I see no reason to use an SSRI without using therapy. Either use therapy only or use therapy + SSRI. Don't use SSRI only. At least with therapy + SSRI you can be on a lower dosage of the SSRI than what you would have been on with SSRI only.
 
 ### Sources
 1. Burns, David. When Panic Attacks. Harmony Books, 2007.
