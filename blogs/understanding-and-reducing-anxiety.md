@@ -95,14 +95,14 @@ With the what if technique you will sometimes see that the worst-case scenario i
 #### Think of things as 0-100 instead of 0 or 100
 Thinking of things as 0 or 100 often puts on extra pressure. Here are some examples of 0 or 100 thinking:
 1. I am going to either make a good impression or a bad impression depending on how well things go!
-1. I am concerned my anxiety might come back because in the past week, there has been many scenarios in which my anxiety returned!
+1. I am concerned my anxiety might come back because in the past week, there have been many scenarios in which my anxiety returned!
 
 Thinking of things in terms of 0-100 will reduce the pressure. Here is an example of converting the above statements to 0-100 thinking:
 1. Depending on how things go, the impression I make could be anywhere between 0 and 100. One mistake may lower the person's impression of me, but it won't necessarily mean that the person's view of me is that I am the worst person there is.
-1. I have anxiety everyday just like everyone else. If we are getting really technical, it may be 1/100, 5/100, 10/100, or 0.00001/100 but it's something. So, there's no such thing as "anxiety coming back." There is such a thing as anxiety increasing and decreasing. Everyone's anxiety increases and decreases at some point in time every day. It may be a small, unnoticeable increase/decrease but it's something.
+1. I have anxiety everyday just like everyone else. If we are getting really technical, it may be 1/100, 5/100, 10/100, or 0.00001/100 but it's something. So, there's no such thing as "oh no! My anxiety has returned!." There is such a thing as anxiety increasing and decreasing. Everyone's anxiety increases and decreases at some point in time every day. It may be a small, unnoticeable increase/decrease but it's something.
 
 #### Image substitution
-Suppose you are about to give a speech soon and you have public speaking anxiety. If you visualize yourself giving a bad speech, your anxiety levels will go up. This will make it more likely that you stutter throughout your speech. However, if you visualize yourself giving a good speech, this will decrease your anxiety and make it more likely for you to give a good speech. This is called image substitution. So, any time you are nervous about something going wrong, try to visualize it going right. This reduces anxiety.
+Suppose you are about to give a speech soon and you have public speaking anxiety. If you visualize yourself giving a bad speech, your anxiety levels will go up. This will make it more likely that you stutter throughout your speech. However, if you visualize yourself giving a good speech, this will decrease your anxiety and make it more likely for you to give a good speech. This is called image substitution. So, any time you are nervous about the possibility of something going wrong, try to visualize it going well. This reduces anxiety.
 
 If you are nervous about flying on an airplane, visualize yourself flying on an airplane that lands safely. If you are nervous about your boss' opinion of your work, visualize your boss saying that your work looks great.
 
@@ -110,7 +110,7 @@ If you are nervous about flying on an airplane, visualize yourself flying on an 
 Depending on what has happened in your past, there may be previous memories that you have that make you feel uneasy. With memory rescripting, you simply just pretend that something different happened in the past when you try to visualize it. In other words, you use image substitution on the past instead of the future. Maybe a previous flight of yours had turbulence, which made you uneasy. Try to recall that flight but visualize it without having turbulence instead.
 
 #### Diaphragmatic breathing 
-Inhale for 4 seconds, hold your breath for 2 seconds, and exhale for 6 seconds. Breathe in through your nose and out through your mouth. Also make sure you are breathing through your belly instead of your chest.
+Inhale for four seconds, hold your breath for two seconds, and exhale for six seconds. Breathe in through your nose and out through your mouth. Also make sure you are breathing through your belly instead of your chest.
 
 #### Acceptance
 Sometimes you end up with a health issue later in life that is terminal. All you can do is just accept the situation and say, "whatever happens, it's okay."
@@ -123,7 +123,7 @@ I don't want to get into much detail on meditation in this blog post because med
 #### Which technique is the best?
 Dr. David Burns has indicated that there is no one size fits all technique that has worked for all his clients. A technique that works on one client may not work on another client. In some cases, he will have to do more than 15 different techniques before finally finding a technique that works on a client. 
 
-That being said, a few of these concepts appear to be generally more powerful. Challenging negative thoughts seems to generally be very powerful. Meditation does as well though meditation takes a lot longer than any other technique before any benefit is noticed.
+That being said, challenging negative thoughts seems to generally be very powerful. Meditation is also something that is generally good after being practiced enough but it generally needs to be paired with another technique since it isn't something that changes the way you think. It is more of a distraction mechanism.
 
 #### Water/Food/Sleep
 When people are anxious, they tend to drink less water and eat less food. Make sure to eat and drink the same amount of water/food as you normally do. If you are having a tough time doing this, you can try spreading out the food/water more throughout the day instead of taking it at a few big doses.
@@ -134,16 +134,16 @@ Less sleep tends to increase anxiety so make sure to try to get your normal amou
 An increase in anxiety tends to lead to an increase in procrastination. If you can avoid procrastination, that will typically help decrease anxiety. If you already had a routine prior to anxiety developing, you want to try to stick with that routine. If you did not have a routine prior to anxiety developing, you want to try to get into a routine.
 
 #### Are these physical symptoms just anxiety related or is something actually wrong with me?
-We listed out some potential physical symptoms that anxiety may cause above. However, just because you have those symptoms, doesn't mean that those symptoms came from anxiety. A symptom may have multiple causes. If you had high levels of anxiety around the time of these physical symptoms arising, that increases the chance that these symptoms being caused by anxiety but doesn't **guarantee** that these symptoms were caused by anxiety. You could just have had something bad happen to you plus anxiety at around the same time.
+We listed out some potential physical symptoms that anxiety may cause above. However, just because you have those symptoms, doesn't mean that those symptoms came from anxiety. A symptom may have multiple causes. If you had high levels of anxiety around the time of these physical symptoms arising, that **increases** the chance that these symptoms were caused by anxiety but doesn't **guarantee** that these symptoms were caused by anxiety. You could have just had something bad happen to you while having anxiety at around the same time.
 
-So, it is always good to check with a medical professional to just confirm that these symptoms are anxiety related and there isn't actually anything wrong with you. If a doctor does tests on you and says that there is nothing wrong with you physically, then you need to just accept their word on it and trust that it is anxiety related.
+So, it is always good to check with a medical professional to just confirm that these symptoms are anxiety related and there isn't actually anything wrong with you physically. If a doctor does tests on you and says that there is nothing wrong with you physically, then you need to just accept their word on it and trust that it is anxiety related.
 
 #### Doctor vs Therapist
 When it comes to anxiety, doctors seem to be the best at helping with the physical symptoms associated with anxiety. They can check to see if there is anything wrong with you physically or if it is just anxiety. They can also prescribe medications that can help with the physical symptoms you are experiencing from anxiety. They can also prescribe SSRIs for reducing anxiety. The downside of the SSRIs is they generally come with a few side effects.
 
 While the doctor has the medical background, the therapist has the mental background. They understand the mental side of things very well. So, if you want to reduce anxiety naturally, the therapist can help you do that. The therapist can help give you short term and long-term strategies for reducing anxiety. They may be similar to the strategies you read in this blog post.
 
-It is always good to aim to reduce anxiety through therapy. This may include seeing a therapist or may just be as simple as reading about cognitive behavioral therapy (which is where most information from this blog post came from). The reason why it is always good to aim to reduce anxiety this way is because it is side-effect free. If you want to use an SSRI in addition to this, then that is up to you and your doctor. But I see no reason to use an SSRI without using therapy. Either use therapy only or use therapy + SSRI. Don't use SSRI only. At least with therapy + SSRI you can be on a lower dosage of the SSRI than what you would have been on with SSRI only.
+It is always good to aim to reduce anxiety through therapy. This may include seeing a therapist or may just be as simple as reading about cognitive behavioral therapy (which is where most information from this blog post came from). The reason why it is always good to aim to reduce anxiety this way is because it is side-effect free. If you want to use an SSRI in addition to this, then that is up to you and your doctor. But I see no reason to use an SSRI without using therapy. Either use therapy only or use therapy in addition to an SSRI. Don't use an SSRI only. At least with therapy and an SSRI you can potentially be on a lower dosage/frequency of the SSRI than what you would have been on with only being on the SSRI.
 
 ### Sources
 1. Burns, David. When Panic Attacks. Harmony Books, 2007.
