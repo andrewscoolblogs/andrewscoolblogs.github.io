@@ -145,3 +145,6 @@ While the doctor has the medical background, the therapist has the mental backgr
 You should always aim to reduce anxiety through therapy. This may include seeing a therapist or may just be as simple as reading about cognitive behavioral therapy (which is where most information from this blog post came from). The reason why you should always aim to reduce anxiety this way is because it is side-effect free. If you want to use an SSRI in addition to this, then that is up to you and your doctor. But I see no reason to use an SSRI without using therapy. Either use therapy only or use therapy + SSRI. Don't use SSRI only. At least with therapy + SSRI you can be on a lower dosage of the SSRI than what you would have been on with SSRI only.
 
 ### Sources
+1. Burns, David. When Panic Attacks. Harmony Books, 2007.
+1. Clark, David and Beck, Aaron. The Anxiety And Worry Workbook. The Guilford Press, 2012.
+1. Greenberger, Dennis and Padesky, Christine. Mind Over Mood. The Guilford Press, 2016.
