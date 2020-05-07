@@ -55,7 +55,7 @@ You want to write as many positive thoughts as possible. Any time that you think
 
 Let's look at an example of challenging negative thoughts:
 
-Negative thought: I have pain in my chest, is there something wrong with my heart?
+Negative thought: I have pain in my chest, is there something wrong with my heart?  
 Positive thoughts:
 * I visited the doctor and they did many tests and found nothing wrong with my heart
 * I was just able to run on a treadmill and set a personal record for the 1-mile run
