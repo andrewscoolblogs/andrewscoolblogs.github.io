@@ -88,7 +88,7 @@ Take a negative thought. Now ask yourself, "if this negative thought was true, w
 Suppose you are walking around a grocery store but are having difficulty finding the item you are looking for. You are thinking of asking one of the grocery store employees for help, but you are nervous about it because you are shy. The what if technique might look like this:
 * I'm nervous about asking this employee about where an item is because he might pick up that I am shy and think that something is wrong with me.
 * If the grocery store employee thinks that something is wrong with me, what is the worst that could happen? The employee might give me a weird look when I walk into the store next time.
-* If the employee gives me a weird look when I walk into the store next time, what is the worst that could happen? I might take a less than optimal path within the grocery store to get my grocery.
+* If the employee gives me a weird look when I walk into the store next time, what is the worst that could happen? I might take a less than optimal path within the grocery store to get my groceries in an effort to avoid the employee.
 
 With the what if technique you will sometimes see that the worst-case scenario isn't as bad as you thought. Or even more common, you will see that the worst-case scenario is quite a bit less likely to occur. If you really dig through it with a friend or therapist, a lot of unlikely assumptions need to hold true for the worst-case scenario to hold up.
 
