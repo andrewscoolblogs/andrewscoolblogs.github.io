@@ -5,23 +5,23 @@
 ### Understanding anxiety
 
 #### Physical symptoms
-**The higher the levels of anxiety, the more likely there is to be physical symptoms associated with the anxiety.** Some people require more anxiety than others in order to experience physical symptoms. So, if you take two anxious individuals, one who is experiencing physical symptoms and one who is not, the person experiencing physical symptoms is not necessarily the more nervous of the two.
+The higher the levels of anxiety, the more likely there is to be physical symptoms associated with the anxiety. Some people require more anxiety than others in order to experience physical symptoms. So, if you take two anxious individuals, one who is experiencing physical symptoms and one who is not, the person experiencing physical symptoms is not necessarily the more nervous of the two.
 
-The duration of anxiety also plays a role. **If you can go a long time with low anxiety, it will generally take a lot more anxiety for a longer period of time in order to experience physical symptoms.** If you frequently have anxiety, then it may feel like it doesn't take much in order to experience physical symptoms.
+The duration of anxiety also plays a role. If you can go a long time with low anxiety, it will generally take a lot more anxiety for a longer period of time in order to experience physical symptoms. If you frequently have anxiety, then it may feel like it doesn't take much in order to experience physical symptoms.
 
 There are many different physical symptoms that you may get from having high levels anxiety. You might start out with a few symptoms on one day and then on another day have totally different physical symptoms. Or, you may even have one set of symptoms for a month, feel all better, and then a year or two later experience totally different physical symptoms when you get anxious again. So, the physical symptoms you get will not necessarily be the same each time. The symptoms you get might also be a little different than what your friends get.
 
-**Some potential physical symptoms include headache, tightness in chest, shortness of breath, chest pain, nausea, abdominal pain, lightheadedness, dizziness, diarrhea, sweating.**
+Some potential physical symptoms include headache, tightness in chest, shortness of breath, chest pain, nausea, abdominal pain, lightheadedness, dizziness, diarrhea, sweating.
 
 #### Causes of anxiety
-**Anxiety is caused by negative thoughts. With negative thoughts, you are typically telling yourself that something bad is going to happen.**
+Anxiety is caused by negative thoughts. With negative thoughts, you are typically telling yourself that something bad is going to happen.
 
-Let's say you are on an airplane and you have a fear of flying. Now suddenly, there is some turbulence and you say, "We are going to crash!" **Your anxiety did not result from the turbulence. Your anxiety resulted from your negative thought about the turbulence.** Some others on the airplane did not immediately start to think about crashing and as a result did not feel nervous. 
+Let's say you are on an airplane and you have a fear of flying. Now suddenly, there is some turbulence and you say, "We are going to crash!" Your anxiety did not result from the turbulence. Your anxiety resulted from your negative thought about the turbulence. Some others on the airplane did not immediately start to think about crashing and as a result did not feel nervous. 
 
-**If you can change the way you think, then you can change the way you feel.**
+If you can change the way you think, then you can change the way you feel.
 
 #### Cognitive Distortions
-**When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in.** Knowing this may help calm you down some when you feel anxious because this information can help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
+When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in. Knowing this may help calm you down some when you feel anxious because this information can help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
 
 List of distortions include:
 1. All-or-Nothing Thinking: viewing things in terms of maximums or minimums with nothing in between
@@ -39,9 +39,9 @@ Most of the distortions are self-explanatory but some need more explanation and 
 ### Strategies for reducing anxiety
 
 #### Distraction
-We said earlier that anxiety is caused by our negative thoughts. We have a negative thought and thinking about that negative thought makes us nervous. **If we simply just don't think about that negative thought, our anxiety will lessen.** But it's not just as simple as "hey quit thinking about that." It is often easier if you can distract yourself by doing some sort of activity which may include playing a video game, going for a walk, playing a sport, watching TV, etc.
+We said earlier that anxiety is caused by our negative thoughts. We have a negative thought and thinking about that negative thought makes us nervous. If we simply just don't think about that negative thought, our anxiety will lessen. But it's not just as simple as "hey quit thinking about that." It is often easier if you can distract yourself by doing some sort of activity which may include playing a video game, going for a walk, playing a sport, watching TV, etc.
 
-**Distraction is a good technique for short term anxiety relief but doesn't do anything for long term anxiety relief.** This is because distraction will get your mind off your nervous thought but once you are finished with your activity that distracted you from your nervous thought, what is to stop you from returning back to that nervous thought again?
+Distraction is a good technique for short term anxiety relief but doesn't do anything for long term anxiety relief. This is because distraction will get your mind off your nervous thought but once you are finished with your activity that distracted you from your nervous thought, what is to stop you from returning back to that nervous thought again?
 
 #### Challenging negative thoughts
 Now it's time for a technique that works well for the long term. It involves challenging your negative thoughts as much as possible. Suppose you have a negative thought that is making you anxious. You can do the following:
@@ -69,7 +69,7 @@ Positive thoughts:
 #### Process vs outcome
 Another technique for reducing anxiety is to think of things more in terms of the process than the outcome. Instead of thinking about the outcome such as "what if I get fired!" You can think of things in terms of the process such as "all I can do is give my best effort and whatever the result is, I can live with it." It's easy to get down on yourself and say things like "if I get fired, then that means that there's something wrong with me." That's not necessarily what that means. Management may not have known what they were doing. Your company could have been struggling financially. Maybe a robot took your job.
 
-The point is, often, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. **So, it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could.** If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They would hopefully be understanding. If they are not, then do not feel bad because you did what you could, and people really need to be understanding any time you give your best effort.
+The point is, often, we have little to no control over the outcome. Worrying about the outcome often causes more anxiety with less benefit. So, it is often more productive to think about the process since we have more control over the process and this mindset will lead to less anxiety. Just tell yourself that for any given situation, all you can do is give your best effort and whatever the result is, you can accept it because you did the best you could. If anyone close to you informs you that they are disappointed in a result they have seen from you, then you can inform them that you gave your best effort. They would hopefully be understanding. If they are not, then do not feel bad because you did what you could, and people really need to be understanding any time you give your best effort.
 
 #### Reattribution
 When something goes wrong, you may blame or label yourself which is something you want to avoid doing. You want to use reattribution when something goes wrong. With reattribution, you ask yourself: what caused this problem and how can I learn from it? 
