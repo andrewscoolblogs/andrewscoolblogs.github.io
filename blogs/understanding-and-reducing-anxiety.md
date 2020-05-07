@@ -108,6 +108,9 @@ If you are nervous about flying on an airplane, visualize yourself flying on an 
 #### Memory rescripting
 Depending on what has happened in your past, there may be previous memories that you have that make you feel uneasy. With memory rescripting, you simply just pretend that something different happened in the past when you try to visualize it. In other words, you use image substitution on the past instead of the future. Maybe a previous flight of yours had turbulence, which made you uneasey. Try to recall that flight but visualize it without having turbulence instead.
 
+#### Diaphragmatic breathing 
+Inhale for 4 seconds, hold your breath for 2 seconds, and exhale for 6 seconds. Breathe in through your nose and out through your mouth. Also make sure you are breathing through your belly instead of your chest.
+
 #### Acceptance
 Sometimes you end up with a health issue later in life that is terminal. All you can do is just accept the situation and say "whatever happens, it's okay."
 
@@ -116,26 +119,23 @@ I don't want to get into much detail on meditation in this blog post because med
 
 ### Miscellaneous
 
-anxiety about anxiety, all or nothing thinking, should statements
-try to get in a routine
-don't procrastinate
-drink plenty water
-eat plenty food if possible
-get plenty sleep
-426 breathing
-478 breathing
-
 #### Which technique is the best?
 Dr. David Burns has indicated that there is no one size fits all technique that has worked for all of his clients. A technique that works on one client may not work on another aclient. In some cases, he will have to do more than 15 different techniques before finally finding a technique that works on a client. 
 
 That being said, a few of these concepts appear to be generally more powerful. Challenging negative thoughts seems to generally be very powerful. Meditation does as well though meditation takes a lot longer than any other technique before any benefit is noticed.
 
+#### Water/Food/Sleep
+When people are anxious, they tens to drink less water and eat less food. Make sure to eat and drink the same amount of water/food as you normally do. If you are having a tough time doing this, you can try spreading out the food/water more throughout the day instead of taking it at a few big doses.
+
+Less sleep tends to increase anxiety so make sure to try to get your normal amount of sleep.
+
+#### Procrastination/Getting in a routine
+An increase in anxiety tends to lead to an increase in procrastination. If you can avoid procrastination, that will typically help decrease anxiety. If you already had a routine prior to anxiety developing, you want to try to stick with that routine. If you did not have a routine prior to anxiety developing, you want to try to get into a routine.
+
 #### Are these physical symptoms just anxiety related or is something actually wrong with me?
 We listed out some potential physical symptoms that anxiety may cause above. However, just because you have those symptoms, doesn't mean that those symptoms came from anxiety. A symptom may have multiple causes. If you had high levels of anxiety around the time of these physical symptoms arising, that increases the chance that these symptoms being caused by anxiety but doesn't **guarantee** that these symptoms were caused by anxiety. You could just have had something bad happen to you plus anxiety at around the same time.
 
 So it is always good to check with a medical professional to just confirm that these symptoms are anxiety related and there isn't actually anything wrong with you. If a doctor does tests on you and says that there is nothing wrong with you physically, then you need to just accept their word on it and trust that it must be anxiety related.
-
-#### Relapse
 
 #### Doctor vs Therapist
 When it comes to anxiety, doctors seem to be the best at helping with the physical symptoms associated with anxiety. They can check to see if there is actually anything wrong with you physically or if it is just anxiety. They can also prescribe medications that can help with the physical symptoms you are experiencing from anxiety. They can also prescribe SSRIs for reducing anxiety. The downside of the SSRIs is they generally come with a few side effects.
