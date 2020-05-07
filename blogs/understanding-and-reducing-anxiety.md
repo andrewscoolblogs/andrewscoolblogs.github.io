@@ -21,7 +21,7 @@ Let's say you are on an airplane and you have a fear of flying. Now suddenly, th
 If you can change the way you think, then you can change the way you feel.
 
 #### Cognitive Distortions
-When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in. Knowing this may help calm you down some when you feel anxious because this information can help you believe deep down that there is some change that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
+When people are anxious, their thinking tends to be very distorted and illogical. They tend to greatly exaggerate the amount of risk they are in. Knowing this may help calm you down some when you feel anxious because this information can help you believe deep down that there is some chance that you are exaggerating the amount of risk you are in. You may **feel** as if you are in a significant amount of danger but the amount of danger you are **actually** in is likely significantly less than the amount of danger you **feel** you are in.
 
 List of distortions include:
 1. All-or-Nothing Thinking: viewing things in terms of maximums or minimums with nothing in between
