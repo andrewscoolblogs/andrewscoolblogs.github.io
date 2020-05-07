@@ -64,8 +64,8 @@ Positive thoughts:
 * If there was something wrong with my heart, I wouldn't have been able to set a personal record for the 1 mile run on a treadmill
 * I am young, and the doctor said the probability of young people having heart issues is very low
 * My family has no history of heart issues
-* Doctor told me there is no reason to be concerned about my heart at this time
-* Above thoughts suggest there is nothing wrong with my heart and this is just anxiety related
+* The doctor told me there is no reason to be concerned about my heart at this time
+* The above thoughts suggest there is nothing wrong with my heart and this is just anxiety related
 
 #### Process vs outcome
 Another technique for reducing anxiety is to think of things more in terms of the process than the outcome. Instead of thinking about the outcome such as "what if I get fired!" You can think of things in terms of the process such as "all I can do is give my best effort and whatever the result is, I can live with it." It's easy to get down on yourself and say things like "if I get fired, then that means that there's something wrong with me." That's not necessarily what that means. Management may not have known what they were doing. Your company could have been struggling financially. Maybe a robot took your job.
