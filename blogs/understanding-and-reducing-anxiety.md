@@ -51,7 +51,7 @@ Now it's time for a technique that works well for the long term. It involves cha
 
 After this is done, you will want to start out by reviewing this writing multiple times per day. You can decrease how frequently you look at it after you have it better understood. The idea is that whenever this negative thought comes to mind, you immediately start to think about the corresponding positive thoughts. This will cause the negative thought to give you less anxiety than it originally did. In many cases, it will cause the negative thought to not even give you anxiety at all anymore. 
 
-You want to write as many positive thoughts as possible. Any time that you think of another positive thought throughout the day, add it in there. The reason for having these positive thoughts written down is so that you don't have to worry about forgetting them when you are anxious. Imagine being anxious and trying to recall all 8 of the positive thoughts but you can only remember 2 of them. If they are all written down, then you are guaranteed to get all 8 of them every time you are anxious which will help with reducing anxiety.
+You want to write as many positive thoughts as possible. Any time that you think of another positive thought throughout the day, add it in there. The reason for having these positive thoughts written down is so that you don't have to worry about forgetting them when you are anxious. Imagine being anxious and trying to recall all eight of the positive thoughts but you can only remember two of them. If they are all written down, then you are guaranteed to get all eight of them every time you are anxious which will help with reducing anxiety.
 
 Let's look at an example of challenging negative thoughts:
 
